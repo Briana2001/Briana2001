@@ -1,107 +1,83 @@
 <div align="center">
 
-<img src="./banner.jpg" alt="Briana ✦ InTech" width="100%" />
+### Briana ✦ InTech
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Computer+Science+Student;Aspiring+Software+Developer;Frontend+%26+Full-Stack+Engineering;Building+Practical+Digital+Products)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Frontend+%26+Full-Stack+Engineering;Building+Practical+Digital+Products)](https://git.io/typing-svg)
-
-<br/>
-
-[![Location](https://img.shields.io/badge/📍_Abuja,_Nigeria-0D1117?style=for-the-badge&logoColor=A78BFA&color=1a1a2e)](https://github.com/Briana2001)
-[![Status](https://img.shields.io/badge/🎓_CS_Student_|_400_Level-0D1117?style=for-the-badge&logoColor=A78BFA&color=1a1a2e)](https://github.com/Briana2001)
-[![X](https://img.shields.io/badge/𝕏_@Briana__InTech-0D1117?style=for-the-badge&logo=x&logoColor=A78BFA&color=1a1a2e)](https://x.com/Briana_InTech)
+[![Location](https://img.shields.io/badge/Abuja,_Nigeria-0D1117?style=flat-square&logoColor=A78BFA&color=1a1a2e&labelColor=0D1117)](https://github.com/Briana2001)
+[![Status](https://img.shields.io/badge/CS_Student_·_400_Level-0D1117?style=flat-square&logoColor=A78BFA&color=1a1a2e&labelColor=0D1117)](https://github.com/Briana2001)
+[![X](https://img.shields.io/badge/@Briana_InTech-0D1117?style=flat-square&logo=x&logoColor=A78BFA&color=1a1a2e&labelColor=0D1117)](https://x.com/Briana_InTech)
 
 </div>
 
 ---
 
-### 👋 About Me
+### About
 
-I'm a Computer Science student and aspiring software developer interested in building practical digital products and solving real-world problems through technology.
+I'm a Computer Science student and aspiring software developer focused on building practical digital products and solving real-world problems through technology.
 
-I'm developing my skills in frontend engineering while expanding my understanding of backend development and full-stack systems. I enjoy turning ideas into projects, exploring how applications work behind the scenes, and learning through hands-on practice.
+I'm strengthening my frontend skills while exploring backend development and full-stack systems. I enjoy turning ideas into working projects, understanding how applications work under the hood, and learning by building.
 
-My current focus is strengthening my JavaScript fundamentals, building useful projects, and developing the technical and problem-solving skills needed to contribute to real-world software.
+Currently focused on solidifying JavaScript fundamentals, shipping useful projects, and developing the problem-solving skills needed to contribute to real software.
 
-I'm open to learning opportunities, internships, SIWES placements, collaborative projects, and mentorship as I continue growing as a developer.
+Open to internships, SIWES placements, collaborative projects, and mentorship.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-**Languages & Web Technologies**
+**Languages & Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,py&theme=dark&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,py&theme=dark&perline=5)](https://skillicons.dev)
 
 **Exploring & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=django,git,github,vscode,vercel&theme=dark&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=django,git,github,vscode,vercel&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
-> These are technologies I'm currently learning and working with — not a claim of equal proficiency across all of them.
+> Learning stack — not a claim of equal experience across all of them.
 
----
 
-### 🚀 Projects
 
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **LifeOS** | Personal productivity and life-management app that brings tasks, goals, habits, ideas, and progress into one place. | HTML, Tailwind CSS, JavaScript, LocalStorage | In Development |
-| **Developer Portfolio** | Personal portfolio and project showcase — a home for projects, skills, and progress as a developer. | TBD | Planned / In Progress |
+### Education
 
----
-
-### 🎓 Education
-
-- **Miva Open University** — Computer Science  
-  *400 Level, First Semester*
+- **Miva Open University** — Computer Science (400 Level, First Semester)
 
 
 ---
 
-### 💡 Engineering Interests
+### Interests
 
-- Frontend development & responsive interfaces
-- Full-stack software engineering
-- Backend development & APIs
-- Practical problem-solving through software
-- Building useful digital products
-- SIWES and internship opportunities
-- Freelance projects and collaborative development
+Frontend interfaces · Full-stack development · Backend & APIs · Building useful products · Internships & SIWES · Collaborative work
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Briana2001&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=Briana2001&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Briana2001&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Briana2001&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### Connect
 
-I'm always interested in learning, building useful products, and collaborating on meaningful projects.
+Open to internships, SIWES, collaborations, and mentorship.
 
-💼 Open to internships, SIWES placements, collaborative projects, and mentorship.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Briana2001-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&color=1a1a2e)](https://github.com/Briana2001)
-[![X](https://img.shields.io/badge/X-Briana_InTech-0D1117?style=for-the-badge&logo=x&logoColor=A78BFA&color=1a1a2e)](https://x.com/Briana_InTech)
+[![GitHub](https://img.shields.io/badge/GitHub-Briana2001-0D1117?style=flat-square&logo=github&logoColor=A78BFA&color=1a1a2e&labelColor=0D1117)](https://github.com/Briana2001)
+[![X](https://img.shields.io/badge/X-@Briana_InTech-0D1117?style=flat-square&logo=x&logoColor=A78BFA&color=1a1a2e&labelColor=0D1117)](https://x.com/Briana_InTech)
 
 ---
 
 <div align="center">
 
-
-
-⭐ From **Briana ✦ InTech** | Built with vision and lots of 🖤 
+**Briana ✦ InTech**
 
 </div>
